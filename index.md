@@ -59,9 +59,9 @@ Inlined CSS reduces the amount of files the browser has to download prior to dis
 
 ### Optimizing the DOM
 
-**Text compression with GZip
+Text compression with GZip
 - Apply content-specific optimizations first: CSS, JS, and HTML minifiers.
-- Apply GZIP to compress the minified output.** [link](http://bit.ly/1ux5lPs)
+- Apply GZIP to compress the minified output. [link](http://bit.ly/1ux5lPs)
 
 GZIP is not enough(20 years old) - DELTA & GZIP Compression! Check **LZMA, LPAQ, BZIP2**
 [link](http://bit.ly/2nVVNgO)
@@ -88,6 +88,26 @@ It is not easy to meet the one second time budget. Luckily for us, the whole pag
 How the Browser Pre-loader Makes Pages Load Faster
 [link](http://bit.ly/2oS9Clj)
 
-## Project
+###README files
 
-[Cameron's portfolio](http://cameronwp.github.io/udportfolio/), [Customed Cameron's portfolio](https://laurahesse.github.io/udacity-frontend-nanodegree-mobile-portfolio)
+Take your READMEs to the next level with these very helpful links:
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+https://robots.thoughtbot.com/how-to-write-a-great-readme
+http://www.wikihow.com/Write-a-Read-Me
+Also, we have a course on writing READMES:
+https://www.udacity.com/course/viewer#!/c-ud777/l-5338568539/m-5331778607
+
+###Comments in your
+
+1. Header comment You should write at least what the code should do. You can also write your name, the date and why you wrote the code 
+
+1. Function Header This comment should provide information about the purpose of the function. You should include at least the required parameters (if any), the transformations, and the expected output 
+
+1. Inline (above line) comment You should write this type of comment in any part of your code you feel that no everyone will get what you are trying to achieve with certain the function or partial code. 
+In term of comments style, you can use [JSDoc](http://usejsdoc.org/), [YUIDoc](http://yui.github.io/yuidoc/) or [Docco](https://jashkenas.github.io/docco/)
+Finally, if you may require some inspiration or advice about what or how to write better comments, you can check the following blog post: http://www.hongkiat.com/blog/source-code-comment-styling-tips/
+
+References:
+1. http://bit.ly/1FnwCqS
+1. http://bit.ly/2qbNxeD
+1. http://bit.ly/2qRwyiU  
