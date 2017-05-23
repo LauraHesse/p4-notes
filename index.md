@@ -8,6 +8,8 @@ Google's [PageSpeed](https://developers.google.com/speed/pagespeed/insights) Ins
 
 Udacity recommends to use Chrome Canary for debugging websites.
 
+---
+
 ## Critical Rendering Path
 
 More about the [Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/) with Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/).
@@ -88,7 +90,9 @@ It is not easy to meet the one second time budget. Luckily for us, the whole pag
 How the Browser Pre-loader Makes Pages Load Faster
 [link](http://bit.ly/2oS9Clj)
 
-### README files
+---
+
+## README files
 
 Take your **READMEs** to the next level with these very helpful links:
 1. [Markdown Cheatsheet](http://bit.ly/1dQOfRK)
@@ -106,6 +110,8 @@ Take your **READMEs** to the next level with these very helpful links:
 In term of comments style, you can use [JSDoc](http://usejsdoc.org/), [YUIDoc](http://yui.github.io/yuidoc/) or [Docco](https://jashkenas.github.io/docco/)
 
 Finally, if you may require some inspiration or advice about what or how to write better comments, [you can check the following blog post](http://www.hongkiat.com/blog/source-code-comment-styling-tips/)
+
+---
 
 More References:
 1. [Commenting](http://bit.ly/1FnwCqS)
